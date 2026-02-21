@@ -3,12 +3,11 @@
 </div>
 # ¡Hola! Soy Gabriel 👋
 
-Soy un desarrollador apasionado por la tecnología, siempre buscando aprender cosas nuevas y mejorar mis habilidades. Aquí puedes ver un poco más sobre las herramientas y tecnologías con las que trabajo:
+Soy un desarrollador multiplataforma apasionado por toda la tecnología, siempre buscando aprender cosas nuevas y mejorar mis habilidades. Aquí puedes ver un poco más sobre las herramientas y tecnologías con las que trabajo:
 
 ### 👨‍💻 Sobre mí
 - 🔭 Actualmente trabajando en **mis proyectos personales y portafolio**.
-- 🌱 Profundizando mis conocimientos en el desarrollo con diferentes frameworks y arquitecturas.
-- ⚡ Dato curioso: ¡Me encanta la cultura geek, como Adventure Time, y el código limpio!
+- 📚 Profundizando mis conocimientos en el desarrollo.
 
 ---
 
