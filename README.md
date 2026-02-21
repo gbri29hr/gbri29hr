@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="JakeProgrammer.png" alt="Banner" width="100%">
+</div>
 ## Hi there 👋
 
 <!--
