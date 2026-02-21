@@ -1,7 +1,7 @@
 <div align="center">
   <img src="JakeProgrammer.png" alt="Banner" width="70%">
 </div>
-# ¡Hola! Soy Gabriel 👋
+¡Hola! Soy Gabriel 👋
 
 Soy un desarrollador multiplataforma apasionado por toda la tecnología, siempre buscando aprender cosas nuevas y mejorar mis habilidades. Aquí puedes ver un poco más sobre las herramientas y tecnologías con las que trabajo:
 
