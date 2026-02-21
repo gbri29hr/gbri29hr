@@ -27,8 +27,8 @@ Soy un desarrollador multiplataforma apasionado por toda la tecnología, siempre
 ### 🚀 Mis Proyectos
 
 
-- 📱 **[Nombre de tu Proyecto 1](https://github.com/gbri29hr/Aeris-WeatherApp)** - Pequeña app del tiempo con ciudades de España, que consulta a la api de OpenWeather. 
-- 💻 **[Nombre de tu Proyecto 2](https://github.com/gbri29hr/Gestion-Crud-Angular)** - Gestion Crud en Angular con (Partidos, Ligas, Arbitros, Jugadores)
+- 📱 **[Aeris WeatherApp](https://github.com/gbri29hr/Aeris-WeatherApp)** - Pequeña app del tiempo con ciudades de España, que consulta a la api de OpenWeather. 
+- 💻 **[Gestion Crud Angular](https://github.com/gbri29hr/Gestion-Crud-Angular)** - Gestion Crud en Angular con (Partidos, Ligas, Arbitros, Jugadores)
 
 ---
 
