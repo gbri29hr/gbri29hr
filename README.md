@@ -1,40 +1,119 @@
-<div align="center">
-  <img src="JakeProgrammer.png" alt="Banner" width="70%">
-</div>
+<table>
+<tr>
+<td>
+
+# Gabriel Hernández  
+### Full-Stack Developer
+
+Desarrollo aplicaciones completas, desde la base de datos hasta la experiencia de usuario.
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00BFFF&width=450&lines=Clean+Code;Arquitectura+Clara;Full-Stack+Development;Siempre+Aprendiendo" />
+
+</td>
+
+<td>
+<img src="JakeProgrammer.png" width="260"/>
+</td>
+</tr>
+</table>
+
+<br/>
+<br/>
 
 ---
 
-¡Hola! Soy Gabriel 👋
+<br/>
 
-Soy un desarrollador multiplataforma apasionado por toda la tecnología, siempre buscando aprender cosas nuevas y mejorar mis habilidades. Aquí puedes ver un poco más sobre las herramientas y tecnologías con las que trabajo:
+## Sobre mí
 
-### 👨‍💻 Sobre mí
-- 🔭 Actualmente trabajando en **mis proyectos personales y portafolio**.
-- 📚 Profundizando mis conocimientos en el desarrollo con diferentes frameworks y arquitecturas.
+Desarrollador Full-Stack con formación en Desarrollo de Aplicaciones Multiplataforma (DAM).
 
+Me especializo en:
 
----
+- Arquitectura limpia  
+- Separación de responsabilidades  
+- Buenas prácticas  
+- Código mantenible y escalable  
 
-### 🛠️ Tecnologías y Herramientas
+Trabajo mis proyectos personales con estructura profesional y enfoque real de producción.
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,py,kotlin,cs,nodejs,angular,laravel,bootstrap,mysql,mongo,sqlite,html,css,git,github,docker&perline=7" alt="Mis Skills" />
-  </a>
-  <br>
-  <p><i>*También tengo experiencia trabajando con Oracle, XML y XSLT.</i></p>
-</div>
+<br/>
+<br/>
 
 ---
 
-### 🚀 Mis Proyectos
+<br/>
+
+## 🛠 Stack Tecnológico
 
 
-- 📱 **[Aeris WeatherApp](https://github.com/gbri29hr/Aeris-WeatherApp)** - Pequeña app del tiempo con ciudades de España, que consulta a la api de OpenWeather. 
-- 💻 **[Gestion Crud Angular](https://github.com/gbri29hr/Gestion-Crud-Angular)** - Gestion Crud en Angular con (Partidos, Ligas, Arbitros, Jugadores)
+### Backend
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,laravel,cs&theme=dark" />
+
+
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap&theme=dark" />
+
+
+### Mobile
+<img src="https://skillicons.dev/icons?i=kotlin,java&theme=dark" />
+
+
+### Bases de Datos
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" />
+
+<sub>Experiencia adicional con Oracle, XML y XSLT</sub>
+
+
+### Herramientas
+<img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
+
+<br/>
+<br/>
 
 ---
 
-### 📫 Conecta conmigo
+<br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielhr2004@gmail.com@gmail.com)
+## 🚀 Proyectos Destacados
+
+
+### Aeris WeatherApp
+
+Aplicación meteorológica que consume datos en tiempo real desde una API externa.
+
+- API REST  
+- Arquitectura en capas  
+- Separación de responsabilidades  
+- Gestión estructurada de datos  
+
+🔗 https://github.com/gbri29hr/Aeris-WeatherApp  
+
+
+### Sistema de Gestión Deportiva (Angular CRUD)
+
+Aplicación completa para gestión de entidades deportivas.
+
+- Arquitectura modular  
+- CRUD completo  
+- Comunicación cliente-servidor  
+- Organización profesional  
+
+🔗 https://github.com/gbri29hr/Gestion-Crud-Angular  
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
+## 📩 Contacto
+
+
+<a href="mailto:gabrielhr2004@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
