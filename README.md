@@ -9,7 +9,7 @@ Desarrollo aplicaciones completas, desde la base de datos hasta la experiencia d
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00BFFF&width=450&lines=Clean+Code;Arquitectura+Clara;Full-Stack+Development;Siempre+Aprendiendo" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1200&color=3FCA45&width=500&lines=Clean+Code;Arquitectura+Clara;Full-Stack+Development;Siempre+Aprendiendo" />
 
 </td>
 
@@ -19,7 +19,7 @@ Desarrollo aplicaciones completas, desde la base de datos hasta la experiencia d
 </tr>
 </table>
 
-<br/>
+
 <br/>
 
 ---
