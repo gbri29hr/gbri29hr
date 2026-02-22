@@ -1,19 +1,119 @@
-<div align="center">
-  <img src="JakeProgrammer.png" alt="Banner" width="70%">
-</div>
-## Hi there 👋
+<table>
+<tr>
+<td>
 
-<!--
-**gbri29hr/gbri29hr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Gabriel Hernández  
+### Full-Stack Developer
 
-Here are some ideas to get you started:
+Desarrollo aplicaciones completas, desde la base de datos hasta la experiencia de usuario.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00BFFF&width=450&lines=Clean+Code;Arquitectura+Clara;Full-Stack+Development;Siempre+Aprendiendo" />
+
+</td>
+
+<td>
+<img src="JakeProgrammer.png" width="260"/>
+</td>
+</tr>
+</table>
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
+## Sobre mí
+
+Desarrollador Full-Stack con formación en Desarrollo de Aplicaciones Multiplataforma (DAM).
+
+Me especializo en:
+
+- Arquitectura limpia  
+- Separación de responsabilidades  
+- Buenas prácticas  
+- Código mantenible y escalable  
+
+Trabajo mis proyectos personales con estructura profesional y enfoque real de producción.
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
+## 🛠 Stack Tecnológico
+
+
+### Backend
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,laravel,cs&theme=dark" />
+
+
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap&theme=dark" />
+
+
+### Mobile
+<img src="https://skillicons.dev/icons?i=kotlin,java&theme=dark" />
+
+
+### Bases de Datos
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" />
+
+<sub>Experiencia adicional con Oracle, XML y XSLT</sub>
+
+
+### Herramientas
+<img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
+## 🚀 Proyectos Destacados
+
+
+### Aeris WeatherApp
+
+Aplicación meteorológica que consume datos en tiempo real desde una API externa.
+
+- API REST  
+- Arquitectura en capas  
+- Separación de responsabilidades  
+- Gestión estructurada de datos  
+
+🔗 https://github.com/gbri29hr/Aeris-WeatherApp  
+
+
+### Sistema de Gestión Deportiva (Angular CRUD)
+
+Aplicación completa para gestión de entidades deportivas.
+
+- Arquitectura modular  
+- CRUD completo  
+- Comunicación cliente-servidor  
+- Organización profesional  
+
+🔗 https://github.com/gbri29hr/Gestion-Crud-Angular  
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
+## 📩 Contacto
+
+
+<a href="mailto:gabrielhr2004@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
