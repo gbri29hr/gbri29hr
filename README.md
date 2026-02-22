@@ -2,19 +2,19 @@
 <tr>
 <td>
 
-# Gabriel Hernández  
-### Full-Stack Developer
+<h1>Gabriel Hernández</h1>   
+ <b>Full-Stack Developer</b>
 
 Desarrollo aplicaciones completas, desde la base de datos hasta la experiencia de usuario.
 
-<br/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00BFFF&width=450&lines=Clean+Code;Arquitectura+Clara;Full-Stack+Development;Siempre+Aprendiendo" />
 
 </td>
 
 <td>
-<img src="JakeProgrammer.png" width="260"/>
+<img src="jake.png" width="260" />
 </td>
 </tr>
 </table>
